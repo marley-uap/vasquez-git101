@@ -6,3 +6,4 @@ This is my fourth git change
 This is my fifth git change
 This is my sixth git change
 This is a conflicting change
+This is another conflicting change
