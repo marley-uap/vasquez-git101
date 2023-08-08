@@ -4,3 +4,4 @@ This is my second git change
 This is my third git change
 This is my fourth git change
 This is my fifth git change
+This is my sixth git change
